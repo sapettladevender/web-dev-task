@@ -15,7 +15,7 @@ body {
 
 h1 {
     display: inline-block;
-    padding: 20px; /* Adjust padding as needed */
+    padding: 20px; 
     background-color: violet;
 }
 p {
@@ -44,14 +44,14 @@ padding: 20px;
 }
 h3 {
     display: inline-block;
-    padding: 20px; /* Adjust padding as needed */
+    padding: 20px; 
     background-color: violet;
 }
 .team-image {
     display: block;
     margin: 0 auto;
-    width: 350px; /* Adjust width as needed */
-    height: 275px; /* Adjust height as needed */
+    width: 350px; 
+    height: 275px; 
 }
 
 .team-image-container {
@@ -62,7 +62,7 @@ h3 {
 
 .team-member {
     text-align: center;
-    margin: 0 10px; /* Adjust margin as needed */
+    margin: 0 10px;
 }
 .team-row {
     display: flex;
@@ -72,7 +72,7 @@ h3 {
 
 .team-column {
     flex: 1;
-    margin: 0 10px; /* Adjust margin as needed */
+    margin: 0 10px; 
 }
 
 
